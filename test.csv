@@ -1,0 +1,2 @@
+age,gender,height,weight,steps,hear_rate,calories,distance,entropy_heart,entropy_setps,resting_heart,corr_heart_steps,norm_heart,intensity_karvonen,sd_norm_heart,steps_times_distance
+20,1,168,65.4,216.75,70,17.9878,0.143135,6.221611724,6.116348566,59,0.388029593,11,0.078014184,9.614839514,31.02451125
